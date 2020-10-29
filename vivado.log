@@ -1,0 +1,17 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Fri Mar 13 21:31:47 2020
+# Process ID: 6756
+# Current directory: E:/CA/project_2
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent200 E:\CA\project_2\project_2.xpr
+# Log file: E:/CA/project_2/vivado.log
+# Journal file: E:/CA/project_2\vivado.jou
+#-----------------------------------------------------------
+ststart_guopopen_project E:/CA/project_2/project_2.xpScScanning sources..FiFinished scanning sourceININFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specifieINFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2018.3/data/ip'.
+opopen_project: Time (s): cpu = 00:00:49 ; elapsed = 00:01:28 . Memory (MB): peak = 691.332 ; gain = 127.37update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Fri Mar 13 21:38:10 2020...
+.
